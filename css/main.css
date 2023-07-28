@@ -29,7 +29,9 @@ header{
     background-color: #e9f380;
 }
 
-
+h3{
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
 .fundo-titulo-card{
     background-color: #e9f380;
     height: 2rem;
