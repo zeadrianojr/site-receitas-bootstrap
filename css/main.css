@@ -1,0 +1,49 @@
+.navbar-nav .nav-link.active{
+    color: #fff;
+    background-color: #555c08;
+
+}
+.navbar-toggler  {
+    background-color: #838e08;
+    color: transparent;
+}
+h1{
+    color:#3b3f06
+}
+
+.nav-link{
+    text-align: center;
+}
+
+
+section{
+    padding-top: 80px;
+}
+
+header{
+    position: sticky;
+    top:0;
+    left:0;
+    background-color: #fff;
+    z-index: 100;
+    background-color: #e9f380;
+}
+
+.fundo-legenda{
+    background-color: #555c08;
+    height: 2rem;
+    border-radius: 3px;
+}
+.fundo-titulo-card{
+    background-color: #e9f380;
+    height: 2rem;
+    border-radius: 3px;
+    text-align: center;
+}
+#destaques-receitas{
+    margin-bottom: 40px;
+}
+
+.card-separado{
+    margin-bottom: 20px;
+}
